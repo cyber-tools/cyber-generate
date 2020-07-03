@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-require("module-alias/register");
+require("module-alias").addAlias("@", __dirname);
 const fs = require("fs");
 const path = require("path");
 

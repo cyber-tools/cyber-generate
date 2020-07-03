@@ -15,9 +15,6 @@
     "module-alias": "^2.2.2",
     "moment": "^2.27.0"
   },
-  "_moduleAliases": {
-    "@": "./"
-  },
   "bin": {
     "spa-generate": "./index.js"
   },
