@@ -1,7 +1,7 @@
 {
-  "name": "spa-code-generate",
+  "name": "@cyber-tools/cyber-generate",
   "version": "1.0.2",
-  "description": "",
+  "description": "根据约定式目录的内容生成代码的命令行工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "moment": "^2.27.0"
   },
   "bin": {
-    "spa-generate": "./index.js"
+    "cyber-generate": "./index.js"
   },
   "repository": {
     "type": "github.com",
